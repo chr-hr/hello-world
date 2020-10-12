@@ -1,2 +1,1 @@
-# hello-world
-this is a test for the Github.
+this is a newbie who is writing the discription.
